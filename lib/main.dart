@@ -17,7 +17,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Center(child: Text('Creating a restaurent Menu')),
+        title: Center(child: Text('Restaurent Menu')),
       ),
       body: SafeArea(
         child: Column(
@@ -39,7 +39,7 @@ class Home extends StatelessWidget {
                 
                   Expanded(
                     child: Text(
-                      "box of friess",
+                      "Karton Jibsi",
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 20,
@@ -67,7 +67,7 @@ class Home extends StatelessWidget {
                   
                   Expanded(
                     child: Text(
-                      "Pizza cheese",
+                      "Afra Dafa-Pizza ",
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 20,
@@ -95,7 +95,7 @@ class Home extends StatelessWidget {
                   
                   Expanded(
                     child: Text(
-                      "fish bugger",
+                      "Anbegar Malay",
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 20,
